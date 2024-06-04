@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1056678275565",
+    "project_id": "thaman-app",
+    "storage_bucket": "thaman-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056678275565:android:e8e3ed30a7a915f01b9fe4",
+        "android_client_info": {
+          "package_name": "com.thamn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056678275565-9q8mi9rgoh6sd7vp3kclnqntqc11ov9l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thamn",
+            "certificate_hash": "5f6130a98ff613fb390a45615102fe53be2c3da6"
+          }
+        },
+        {
+          "client_id": "1056678275565-q144unndp16mqraf48o436ivtk8a4rqc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2HLUoEHGri-qEWs9as8LboTu2LpnW62U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056678275565-ljvc3ladglk5mc224u63vh3r7iodkbbj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1056678275565-9huv0njj7hsubl4s732iljhn7l450mm6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.thamn"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
